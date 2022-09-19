@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dawso Kaniusis
+- 👋 Hi, I’m Dawson Kaniusis
 - 👀 I’m interested in programming and developing
 - 🌱 I’m currently learning as much as humanly possible
-- 📫 How to reach me @dawsonmkaniusis@gmail.com or the attached schopol email. 
+- 📫 How to reach me @dawsonmkaniusis@gmail.com or the attached school email. 
 
 <!---
 dkani421/dkani421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
